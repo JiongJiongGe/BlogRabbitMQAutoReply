@@ -1,0 +1,17 @@
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/MybatisBuildApplication.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/dao/log/CalmWangLogDao.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/domain/log/CalmWangLogModel.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/rabbitmq/config/RabbitConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/rabbitmq/Receiver.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/controller/RabbitMQController.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/rabbitmq/config/TopicRabbitConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/service/impl/user/CalmWangUserServiceImpl.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/domain/user/CalmWangUserModel.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/dao/user/CalmWangUserDao.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/config/DruidConfig.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/service/log/CalmWangLogServiceI.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/aop/ControllerAspect.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/dao/BaseDao.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/service/impl/log/CalmWangLogModelmpl.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/timer/rollbackLogTimer.java
+/Users/wangjiongda/Desktop/learning/mybatis_build_rabbit_auto_reply/src/main/java/com/mybatis/service/user/CalmWangUserServiceI.java
